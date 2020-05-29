@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: DnD Capstone Dev Blog
+email: nxg9997@rit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the development blog for the DnD capstone team for the RIT Game Design & Development MS class of 2020.
+  We will be posting all updates regarding our progress as we work!
 baseurl: "/dnd-dev-blog" # the subpath of your site, e.g. /blog
 url: "https://nxg9997.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: nateglick
+github_username:  nxg9997
 
 # Build settings
 theme: minima
