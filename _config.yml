@@ -23,8 +23,8 @@ email: dndcapstone@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the development blog for the DnD capstone team for the RIT Game Design & Development MS class of 2020.
   We will be posting all updates regarding our progress as we work!
-baseurl: "/dnd-dev-blog" # the subpath of your site, e.g. /blog
-url: "https://nxg9997.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dndcapstone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nateglick
 github_username:  nxg9997
 
