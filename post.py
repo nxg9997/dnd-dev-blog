@@ -18,4 +18,4 @@ print('Created new post')
 
 f.close()
 
-os.system('cd _posts && ' + date + '-' + title + ".md")
+os.system('cd _posts && "' + date + '-' + title + '.md"')
