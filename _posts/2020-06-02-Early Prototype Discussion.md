@@ -17,7 +17,7 @@ Each of us spent time the past week developing bare-bones prototypes for our com
 + Nate's prototype was a paper prototype which he created within a basic set of core mechanics. He also built the deck in Tabletop Simulator in order to play it with the rest of the team while explaining it.
 
 
-<img src="../assets/522_nate_proto.png" height="400" width="720" />
+<img src="/assets/522_nate_proto.png" height="400" width="720" />
 
 Each prototype had similar mechanics, such as turn phases (Draw, Attack, End, etc), but there were also lots of differences. We decided that as a base game, Nate's prototype was the best choice for building off of; it was simple enough to allow for freedom in mechanic development, and it was easy to incorporate good aspects of the other two prototypes into it.
 

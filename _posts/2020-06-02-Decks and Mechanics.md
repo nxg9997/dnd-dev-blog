@@ -8,15 +8,15 @@ categories: update
 # Testing Decks
 Each person created a deck with a different playstyle and card mechanics for the first big playtest.
 
-<img src="../assets/529/Grass Deck.png" width="400" />
+<img src="/assets/529/Grass Deck.png" width="400" />
 
 + David L created a "Nature" Deck, which revolved around building lots of Objects in the Environment to outlast the opponent. It was slower, and relied on a large-scale, final attack to defeat the opponent with one attack.
 
-<img src="../assets/529/NetherDeck (1).png" width="400" />
+<img src="/assets/529/NetherDeck (1).png" width="400" />
 
 + David K created a "Fire" Deck, which was the most aggressive deck, and revolved around dealing tons of damage as fast as possible. The deck worked by destroying Objects as a cost for being able to play powerful attacks early in the game.
 
-<img src="../assets/529/water_deck.png" width="400" />
+<img src="/assets/529/water_deck.png" width="400" />
 
 + Nate created an "Ocean" Deck, which focused on controlling the board by building up its Environment, while also destroying the opponent's Environment. It then built up over time to eventually overwhelm the opponent with powerful attacks and Environment Object effects.
 
