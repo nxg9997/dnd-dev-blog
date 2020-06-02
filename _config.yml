@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dndcapstone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nateglick
-github_username:  nxg9997
+github_username:  DNDCapstone
 
 # Build settings
 theme: minima
