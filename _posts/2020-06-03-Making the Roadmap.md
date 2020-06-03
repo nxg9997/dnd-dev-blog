@@ -35,7 +35,7 @@ Fire crushed Grass again, but this time we were able to help each other figure o
 + The Fire Deck jumps too quickly in strength. We can keep the quick jumps of strength, but make it less of a power gain than other creatures.
 + The Grass Deck lacks the ability to do anything against aggression. Though these kinds of decks are not meant to win over aggression, it still feels frustrating when playing against them. We need to find a way of making it so the Grass Deck still has a fighting chance.
 
-A lot of these changes come down to balancing out the values, however, so there will be lots of playtesting still ahead of us.
+A lot of these changes come down to balancing out the values, so there will be lots of playtesting still ahead of us.
 
 But there was also something we all found to be a problem in the game.
 
