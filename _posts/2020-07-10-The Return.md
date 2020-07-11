@@ -17,6 +17,8 @@ There were a lot of words, ideas, and memes thrown around, but we somehow settle
 
 We found that Attacks happened to be crucially important to how a match flows and goes. Rather than having Attack cards that would give the possibility of not being able to Attack in a turn, we want to try a new system that will allow Attacks to always occur. Furthermore, instead of having a set limitation of card types that can be played, we will be trying a mana system instead. This will allow more strategy and possibilities of play/counterplay, giving the player the capability of executing more powerful combos in exchange of defensive options that would require mana as well (such as Reaction cards).
 
+# Keys and Words
+
 Another important topic we discussed was creating standard language for the design of the game. This will help prevent any confusing wording or repeated wording that could happen from three different people designing cards. While it would be funny to see to see cards that can stun, paralyze, or spook, it could end up rather confusing and inconvenient to describe the effect ocurring.
 
 So then we created a standards document about what **Keywords** we would be using for the cards, as well as what limitations the cards shouldn't be able to do. You may recognize some of the common ones such as **Taunt** or **Summon**, which is easy to convey to the player as this kind of language is common amongst other games. Personally though, I still want Spook to be a Keyword.
