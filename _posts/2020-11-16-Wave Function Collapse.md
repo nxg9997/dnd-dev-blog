@@ -9,7 +9,7 @@ categories: update
 
 It's been done! Our solution for procedural generation has been completed (or at least the base algorithm has).
 
-<img src="/assets/1116/wfc.gif" height="400" width="400" />
+<img src="/assets/1116/wfc.gif" height="400" width="711" />
 
 **Wave Function Collapse** (WFC) is an algorithm inspired by quantum physics, where a wave function is collapsed based on an initial condition. To put it simply, the "wave function" starts as a superposition of all possible solutions (this means that all possible states exist at the same time). We then "observe" a target cell, which means we "collapse" that cell into a single state out of it's possible states. We then "propogate" this change to the rest of the wave function (think "dropping a stone in a puddle"; you see the ripples caused by the stone being dropped), and now every other cell in the wave function now only contains states that are possible based on the initial observation. We repeat this process until the entire wave function has either collapsed, or there is a "contradition" (meaning a cell has no possible states to choose from).
 
