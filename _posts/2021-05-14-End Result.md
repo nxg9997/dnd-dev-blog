@@ -25,7 +25,7 @@ New enemy AI was also added to have proper pathfinding and use proper assets! En
 
 In response to players getting lost in the procedurally generated levels, we created a minimap on the UI so players could see where they have and haven't been on the map! This also shows you when you've found the exit for the level, marked by a yellow square.
 
-<img src="/assets/51421/minimap.png" width="400" />
+<img src="/assets/51421/minimap.PNG" width="400" />
 
 # Upcoming info
 
